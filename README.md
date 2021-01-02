@@ -1,24 +1,9 @@
 <img src="images/improve.png" align="center">
 
 
-# improve
+## TODO Using span-wise averaged function to generate runtime data
 
-Using `the sequential least squares programming algorit`, the drag
-coefficient for this wing decreases from `0.20031270E-01` to
-`0.17377422E-01`.
+The goal is to figure out how to [use the source code](https://github.com/ZmengXu/sampledPlaneAverage/tree/of7/sampledSurface/sampledPlaneSpanwise) and porting data
+from v7 to v1906.
 
-
-# What is this?
-
-
-# Contributing
-
-Yes, please do! See [CONTRIBUTING][] for guidelines.
-
-
-# License
-
-See [COPYING][]. Copyright (c) 2020 Ran Wang.
-
-[CONTRIBUTING]: ./CONTRIBUTING.md
-[COPYING]: ./COPYING
+The testing code would be in the branch: `span-wise-average`.
